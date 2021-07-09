@@ -1,0 +1,2 @@
+include src/main/py/caf_logger/logging.conf
+include src/main/py/caf_logger/logging_json.conf

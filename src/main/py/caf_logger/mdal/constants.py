@@ -1,0 +1,3 @@
+CORRID_HEADER_NAME = "X-WHI-Correlation-ID"
+UUID_CORRID_LABEL = "corrid:"
+ATTR_CORRID_LABEL = "attr:"
